@@ -13,4 +13,4 @@ def find_string_in_list(string_looking = "cherries",
 	    if arr[i] == s:
 	        found = True
 
-	return string_looking
+	return found
