@@ -1,6 +1,7 @@
 # Intermediate function(s)
 ## Code Attribution: Code snippets taken and adapted from https://towardsdatascience.com/how-to-be-pythonic-and-why-you-should-care-188d63a5037e
 
+# small change made by Bronwyn
 
 def find_string_in_list(string_looking = "cherries", 
 						list_finding = ["apples", "oranges", "bananas", "grapes"] ):
