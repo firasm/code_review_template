@@ -3,7 +3,10 @@
 
 def sum_of_a_range(a=10,b=1000):
     """ 
-    What the heck is a docstring?!?
+    sum_of_a_range:
+    Sums the numbers between a range [a,b]
+    
+    Return:
     """
 
 	total_sum = 0
