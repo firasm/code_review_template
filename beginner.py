@@ -3,12 +3,12 @@
 
 def sum_of_a_range(a=10,b=1000):
     """ 
-    What the heck is a docstring?!?
+    This is a function to calculate the sum of a range
     """
-
 	total_sum = 0
 	while b >= a:
 	    total_sum += a
 	    a += 1
 
 	return total_sum
+
