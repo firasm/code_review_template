@@ -7,7 +7,7 @@ def even_value_doubler(array_to_double = [1,2,3,5,6,7,9,10,12]):
     """
 
 	length = len(array_to_double)
-	for i in range(0, length):
+	for i in range(length):
 	    if arr[i] % 2 == 0:
 	        arr[i] *= 2
 
