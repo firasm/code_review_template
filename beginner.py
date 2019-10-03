@@ -3,7 +3,7 @@
 
 def sum_of_a_range(a=10,b=1000):
     """ 
-    What the heck is a docstring?!?
+    adds the sum of a range together
     """
 
 	total_sum = 0
