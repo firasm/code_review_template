@@ -1,5 +1,5 @@
 # Advanced function(s)
-## Code Attribution: Code snippets taken and adapted from https://towardsdatascience.com/how-to-be-pythonic-and-why-you-should-care-188d63a5037e
+## Code Attribution: updated 
 
 def even_value_doubler(array_to_double = [1,2,3,5,6,7,9,10,12]):
     """ 
