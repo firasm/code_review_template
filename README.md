@@ -1,4 +1,4 @@
-# 542_code_review_template
+# Code Review Template
 This repo contains code files for the code review activity
 
 ## Instructions
@@ -11,6 +11,7 @@ This repo contains code files for the code review activity
 1. Create a [DRAFT](https://github.blog/2019-02-14-introducing-draft-pull-requests/) pull-request to your own repository.
 1. Select a function to improve, make your edits, commit to your branch (DO NOT automatically merge it in).
 1. Once you're done committing, confirm your PR and click "Ready for review".
-1. Request a review from someone in your group of 3. [Instructions](https://help.github.com/en/articles/requesting-a-pull-request-review)
-1. Each person will review a PR and provide detailed comments.
-1. The original author should review the comments, make any changes (if any) and then merge the PR
+1. Request a review from someone in your group of 3. 
+    - Here are some [Instructions](https://help.github.com/en/articles/requesting-a-pull-request-review)
+3. Each person will review a PR and provide detailed comments.
+4. The original author should review the comments, make any changes (if any) and then merge the PR
